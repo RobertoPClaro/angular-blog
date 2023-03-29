@@ -20,6 +20,12 @@
   align-items: center;
 }
 
+.small-card__title > h1 > a:hover{
+  color: grey;
+  font-size: 35px;
+}
+
 .container__small-card__separator{
   margin-top: 10px;
 }
+
